@@ -1,0 +1,24 @@
+Lab Practicals - Software Prequisite
+
+On Ubuntu-Direct or on a virtualbox
+1. Install Anaconda
+2. Create Python Virtual Environment (VM) 
+3. After installation of VM, change to VM
+4. Within VM, install (a). OpenCV (b) Jupyter Notebook (c)Scikit
+
+
+
+On Windows for Virtual Box
+1.How to Install Ubuntu Linux on Windows 10 in 24 Steps
+https://www.lifewire.com/install-ubuntu-linux-windows-10-steps-2202108
+2. Install Anaconda
+3. Create Python Virtual Environment (VM) 
+4. After installation of VM, change to VM
+5. Within VM, install (a). OpenCV (b) Jupyter Notebook (c)Scikit
+
+
+On Windows-Direct
+1.Anaconda Installing on Windows
+https://docs.anaconda.com/anaconda/install/windows/ 
+2. Install Anaconda Navigator
+3. From Anaconda Navigator install OpenCV, Jupyter Notebook, Scikit 
